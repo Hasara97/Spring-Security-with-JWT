@@ -1,4 +1,4 @@
-package com.spring.security.demo.models;
+package com.spring.security.demo.model;
 
 public class AuthenticationResponse {
 

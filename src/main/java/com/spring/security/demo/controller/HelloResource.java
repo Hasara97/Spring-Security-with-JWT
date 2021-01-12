@@ -1,7 +1,7 @@
 package com.spring.security.demo.controller;
 
-import com.spring.security.demo.models.AuthenticationRequest;
-import com.spring.security.demo.models.AuthenticationResponse;
+import com.spring.security.demo.model.AuthenticationRequest;
+import com.spring.security.demo.model.AuthenticationResponse;
 import com.spring.security.demo.service.MyUserDetailsService;
 import com.spring.security.demo.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
