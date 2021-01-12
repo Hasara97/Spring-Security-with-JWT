@@ -16,3 +16,4 @@ public class MyUserDetailsService implements UserDetailsService {
         return new User("Hasara", "password123", new ArrayList<>());
     }
 }
+
